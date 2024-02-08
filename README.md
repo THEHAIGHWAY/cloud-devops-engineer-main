@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🗣️ Cloud/DevOps Engineer</h1>
   <p align="center">
-    🤗 <a href="https://www.linkedin.com/in/emmanuel-kuidjo">Follow Emmanuel KUIDJO</a> • 
+    🤗 Follow <a href="https://www.linkedin.com/in/emmanuel-kuidjo">Emmanuel KUIDJO</a> • 
     💻 <a href="https://www.linkedin.com/company/the-haighway">THE HAIGHWAY</a> • 
   </p>
 </div>
@@ -9,33 +9,89 @@
 
 ---
 
-[WIP]
+# About THE HAIGHWAY
 
-## 0. Prerequisites
+Welcome !!! Here is a quick presentation of **THE HAIGHWAY**. Feel free to skip to the [next section](#introduction) if you already know about us.
 
-## 1. Docker & Kubernetes
+**THE HAIGHWAY** is a training company in **AI, Data and Cloud**. Our mission is to help you upskill as you were on the job. We offer free and paid learning ressources in **English** & **French**.
 
-## 2. Infrastructure as Code
+Our free ressources include: 
+- GitHub repositories, articles and newsletters
+- Short videos and short courses
 
-## 3. Building Cloud Account Architecture
+Our paid ressources include:
+- Self-paced and cohort-based bootcamps and courses
+- On-demand courses for comapnies
 
-### 3.1 AWS
+We value well organized ressources. We assume that Juniors don't know what to learn next and want guidance. We assume that Seniors sometimes know what to learn next and want to find what they are looking for with minimum effort. 
 
-### 3.2 Azure
+We classify our ressources in three levels:
+- Main : general skills
+- Focus : focus on specific set of skills or technologies
+- Projects : end-to-end cases
 
-### 3.3 GCP
+We classify skills for a given role in three concentric categories:
+- Basics : basic skills but insufficient to be competitive on the job market
+- Junior : core skills relevant for most companies
+- Senior : advanced knowledge and skills relevant for most companies
 
-## 4. Cloud Network Architecture
+We distinguish three levels of mastering of tools and technologies:
+- Beginner : initial knowledge
+- Intermediate : intermediate knowledge
+- Advanced : advanced knowledge
 
-## 6. Overview of Cloud Services
+🔔 **That's all for now. Some ressources are not yet publicly available. More information is coming soon, so make sure to stay tuned. Enjoy !!!**
 
-## 5. Reference Solutions Architecture
+---
 
-## 6. Design Security in the Cloud
+# Introduction
 
-## 7. CI/CD
+This repository is our main gateway for Cloud and DevOps Engineers. It provides a roadmap and ressources to upskill for this role. It introduces you to our other repositories for this role.
 
-## 8. Monitoring 
+
+## Prerequisites
+
+Before starting this program, you need to acquire the basic skills for engineering roles in this [repository](https://github.com/THEHAIGHWAY/the-basics-for-eng-roles-in-cloud-data-ai-main.git). 
+
+
+## Overview of DevOps
+
+
+## Docker: Intermediate to Advanced
+
+
+## Infrastructure as Code: intermediate to Advanced
+
+
+## Desiging and Building Cloud Account Architecture
+
+
+## Designing and Building Cloud Network Architecture
+
+
+## Reference Solutions Architecture
+
+
+## Design and Building Security in the Cloud
+
+
+## Building Automation with CI/CD
+
+
+## Configuration Management
+
+
+## Build & Package Manager Tools
+
+
+## Monitoring of Cloud Infrastructure : Promotheus & Grafana
+
+
+## Back up and Disaster Recovery
+
+
+## Kubernetes for Container Orchestration
+
 
 ---
 
